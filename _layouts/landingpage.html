@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>{{ page.title }}</title>
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+		</head>
+		<body style="background-color:lightblue;">
+
+			<nav>
+	    		<ul>
+	        		<li><a href="/">Home</a></li>
+				<li><a href="/apply">Apply</a></li>
+		        	<li><a href="/about">About Us</a></li>
+				<li><a href="/programme">Programme</a></li>
+				<li><a href="/people">People</a></li>
+				<li><a href="/contact_us">Contact Us</a></li>
+
+	    		</ul>
+			</nav>
+			<div class="container">
+		
+			{{ content }}
+			
+			</div><!-- /.container -->
+			<footer>
+	    			<ul>
+	        		<li><a href="mailto:refugees@media.mit.edu">email</a></li>
+	        		<li><a href="https://www.media.mit.edu/projects/refugee-learning-accelerator/overview/">Project</a></li>
+				</ul>
+			</footer>
+		</body>
+	</html>
