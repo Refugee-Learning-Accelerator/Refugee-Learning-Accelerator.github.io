@@ -28,9 +28,6 @@ a.class2 {
     display: inline-block;
 }
 
-a:hover, a:active {
-    background-color: red;
-}
 a.class2:hover {
     text-decoration: underline;
 }
