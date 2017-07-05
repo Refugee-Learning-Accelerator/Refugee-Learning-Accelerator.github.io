@@ -43,7 +43,7 @@ ul.posts li {
 }
 .relative{position:relative; width:100%;}
 .absolute-text{position:absolute; bottom:0; font-size:24px; font-family:"vedana"; font-weight: bold; background:rgba(251,251,251,0.5);
-padding:10px 20px; width:100%; text-align:center;}
-.absolute-nav-bar{position:absolute; top:0; font-size:24px; font-family:'Helvetica', 'Arial', 'Sans-Serif'; background:rgba(251,251,251,0.5); padding:30px 40px; width:100%; text-align:center;}
-.absolute-text a{font-size:25px; color:#b92b27;}
-.absolute-nav-bar a{font-size:20px; color#b92b27;}
+padding:10px 20px; width:100%; text-align:left;}
+.absolute-nav-bar{position:absolute; top:0; font-size:24px; font-family:'Helvetica', 'Arial', 'Sans-Serif'; background:rgba(251,251,251,0.5); padding:30px 40px; width:100%; text-align:right;}
+.absolute-text a{font-size:25px; color:#0000;}
+.absolute-nav-bar a{font-size:20px; color#0000;}
