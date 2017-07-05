@@ -20,6 +20,13 @@ a.class1:hover {
     text-decoration: underline;
 }
 a.class2 {
+    text-decoration: none;
+    color: #9AFEFF;
+}
+a.class2:hover {
+    text-decoration: underline;
+}
+a.class3 {
     background-color: #000000;
     color: white;
     padding: 14px 25px;
@@ -28,7 +35,7 @@ a.class2 {
     display: inline-block;
 }
 
-a.class2:hover {
+a.class3:hover {
     text-decoration: underline;
 }
 h1 {
