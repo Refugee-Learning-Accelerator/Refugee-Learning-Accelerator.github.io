@@ -14,7 +14,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #0000;
+    color: #000000;
 }
 a:hover {
     text-decoration: underline;
@@ -26,8 +26,9 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #0000;
+    color: #000000;
 }
+sp { font-size: .5em; line-height:1em; color:#000000;}
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
@@ -45,5 +46,5 @@ ul.posts li {
 .absolute-text{position:absolute; bottom:0; font-size:24px; font-family:"vedana"; font-weight: bold; background:rgba(251,251,251,0.5);
 padding:10px 20px; width:100%; text-align:left;}
 .absolute-nav-bar{position:absolute; top:0; font-size:24px; font-family:'Helvetica', 'Arial', 'Sans-Serif'; background:rgba(251,251,251,0.5); padding:30px 40px; width:100%; text-align:right;}
-.absolute-text a{font-size:25px; color:#0000;}
-.absolute-nav-bar a{font-size:20px; color#0000;}
+.absolute-text a{font-size:25px; color:#000000;}
+.absolute-nav-bar a{font-size:20px; color#000000;}
