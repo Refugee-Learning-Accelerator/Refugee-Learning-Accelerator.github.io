@@ -12,18 +12,26 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-a {
+a.class1 {
     text-decoration: none;
     color: #3090C7;
 }
-a:hover {
+a.class1:hover {
     text-decoration: underline;
 }
-a2 {
+a.class2 {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
     text-decoration: none;
-    color: #000000;
+    display: inline-block;
 }
-a2:hover {
+
+a:hover, a:active {
+    background-color: red;
+}
+a.class2:hover {
     text-decoration: underline;
 }
 h1 {
