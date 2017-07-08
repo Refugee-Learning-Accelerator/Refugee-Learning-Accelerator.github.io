@@ -3,7 +3,8 @@ body {
     width: 70%;
 }
 body.landingpage { 
-  background-image: url(Refugee-Learning-Accelerator.github.io/Girl_reflected_in_computer.jpeg) no-repeat center center fixed; 
+  background-image: url("/Girl_reflected_in_computer.jpeg"); 
+  background-repeat: no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
