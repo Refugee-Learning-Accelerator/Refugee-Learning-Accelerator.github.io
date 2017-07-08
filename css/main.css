@@ -8,6 +8,7 @@ body.landingpage {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
+    background-position: center center
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
