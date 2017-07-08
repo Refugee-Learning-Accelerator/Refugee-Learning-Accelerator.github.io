@@ -5,10 +5,10 @@ body {
 body.landingpage { 
   background-image: url("/Girl_reflected_in_computer.jpeg"); 
   background-repeat: no-repeat;
+  background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
