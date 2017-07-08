@@ -20,6 +20,13 @@ nav ul li, footer ul li {
     display: inline-block;
     margin-right: 20px;
 }
+
+/* navbar */
+.navbar-inverse {
+    background-color: #a94442;
+    border-color: #E7E7E7;
+}
+
 a.class1 {
     text-decoration: none;
     color: #3090C7;
