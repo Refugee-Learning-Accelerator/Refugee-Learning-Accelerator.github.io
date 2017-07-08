@@ -25,6 +25,27 @@ nav ul li, footer ul li {
 .navbar-inverse {
     background-color: #a94442;
     border-color: #E7E7E7;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.container {
+    width: 100%;
+}
+
+.site-wrapper-inner {
+    background: rgba(256, 256, 256, 0.7); /* color with an alpha transparency */
+    height: 100%;
+}
+
+.cover {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.mastfoot {
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 a.class1 {
