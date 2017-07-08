@@ -33,6 +33,7 @@ nav ul li, footer ul li {
 }
 
 .site-wrapper-inner {
+    background-size: cover
     background: rgba(256, 256, 256, 0.25); /* color with an alpha transparency */
     height: 100%;
 }
