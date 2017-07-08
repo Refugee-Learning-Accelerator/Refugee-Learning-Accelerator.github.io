@@ -47,7 +47,10 @@ nav ul li, footer ul li {
     padding-left: 15px;
     padding-right: 15px;
 }
-
+.blurb {
+    padding-left: 15px;
+    paddingright: 15px;
+}
 a.class1 {
     text-decoration: none;
     color: #3090C7;
