@@ -90,10 +90,9 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     text-color: #000000;
-    background-color: white;
 }
 .box_textshadow {
-     text-shadow: 2px 2px 0px #FF0000; /* FF3.5+, Opera 9+, Saf1+, Chrome, IE10 */
+     text-shadow: 1px 1px 1px white; /* FF3.5+, Opera 9+, Saf1+, Chrome, IE10 */
 }
 sp { font-size: 1em; line-height:1.2em; color:#000000;}
 footer {
