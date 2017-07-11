@@ -45,9 +45,6 @@ nav ul li, footer ul li {
     padding-right: 15px;
     font-size: larger
 }
-.navbar-header .navbar-brand {
-  color: #000000; 
-}
 .cover-heading {
     font-size: 60px
 }
@@ -100,14 +97,7 @@ a.class2 {
     text-decoration: none;
     display: inline-block;
 }
-.container-table {
-    display: table;
-}
-.vertical-center-row {
-    display: table-cell;
-    vertical-align: middle;
-}
-a.class2:hover {
+class2:hover {
     text-decoration: underline;
 }
 a.class3 {
@@ -129,7 +119,6 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    text-color: #000000;
 }
 .box_textshadow {
      text-shadow: 1px 1px 1px white; /* FF3.5+, Opera 9+, Saf1+, Chrome, IE10 */
@@ -138,17 +127,6 @@ sp { font-size: 1em; line-height:1.2em; color:#000000;}
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-}
-.lead {
-  font-size: 40px
-}
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
-}
-
-ul.posts li {
-    list-style: none;
 }
 .relative{position:relative; width:100%;}
 .absolute-text{position:absolute; bottom:0; font-size:24px; font-family:"vedana"; font-weight: bold; background:rgba(251,251,251,0.5);
