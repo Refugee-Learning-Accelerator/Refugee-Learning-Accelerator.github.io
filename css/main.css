@@ -61,8 +61,8 @@ hr {
 }
 .btn-primary {
     color: #fff;
-    background-color: #800000;
-    border-color: #800000;
+    background-color: #000000;
+    border-color: #000000;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
