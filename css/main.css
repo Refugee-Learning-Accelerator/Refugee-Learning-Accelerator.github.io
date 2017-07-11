@@ -67,9 +67,15 @@ hr {
     -moz-transition: all .35s;
     transition: all .35s;
 }
-header .header-content .header-content-inner p {
+header .header-content-dark .header-content-inner p {
     font-weight: 300;
     color: #000000;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+header .header-content-light .header-content-inner p {
+    font-weight: 300;
+    color: white;
     font-size: 25px;
     margin-bottom: 50px;
 }
