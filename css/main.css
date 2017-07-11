@@ -73,9 +73,9 @@ header .header-content .header-content-inner p {
     font-size: 25px;
     margin-bottom: 50px;
 }
-header .header-content-light .header-content-light-inner p {
+header .header-content .header-content-inner .light p{
+    color: white 
     font-weight: 300;
-    color: white;
     font-size: 25px;
     margin-bottom: 50px;
 }
