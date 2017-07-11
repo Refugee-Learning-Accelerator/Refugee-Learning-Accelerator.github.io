@@ -51,6 +51,29 @@ nav ul li, footer ul li {
 .cover-heading {
     font-size: 60px
 }
+.header-content{
+  color: #000000
+}
+hr {
+    border-color: #800000;
+    border-width: 3px;
+    max-width: 50px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #800000;
+    border-color: #800000;
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+}
+header .header-content .header-content-inner p {
+    font-weight: 300;
+    color: #000000;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
 
 .mastfoot {
     padding-left: 15px;
