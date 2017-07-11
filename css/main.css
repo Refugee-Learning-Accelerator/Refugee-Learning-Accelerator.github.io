@@ -10,6 +10,10 @@ body.landingpage {
   -o-background-size: cover;
     background-position: center 0px
 }
+body.about {
+    background-color: #800000
+        text-color: #000000
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
