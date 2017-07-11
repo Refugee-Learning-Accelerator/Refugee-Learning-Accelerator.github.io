@@ -80,8 +80,7 @@ header .header-content .header-content-inner .light p{
     margin-bottom: 50px;
 }
 .navbar-default .navbar-header .navbar-brand {
-    color: rgba(255,255,255,.7);
-    background-color: #800000;
+    color: #000000;
 }
 .mastfoot {
     padding-left: 15px;
