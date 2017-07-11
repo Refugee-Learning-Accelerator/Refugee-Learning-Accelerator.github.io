@@ -109,8 +109,8 @@ class2:hover {
     text-decoration: underline;
 }
 a.class3 {
-    background-color: #800000;
-    color: #800000;
+    background-color: #000000;
+    color: white;
     padding: 14px 25px;
     text-align: center; 
     text-decoration: none;
