@@ -4,3 +4,6 @@ header .header-content .header-content-inner p {
     font-size: 25px;
     margin-bottom: 50px;
 }
+.header-content {
+    color: white;
+}
