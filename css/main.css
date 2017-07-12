@@ -13,6 +13,11 @@ body.landingpage {
 body.about {
     background-color: #800000
 }
+.bg-primary {
+    text-color: #000000
+    background-color: rgba(256,256,256,1)
+        
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
