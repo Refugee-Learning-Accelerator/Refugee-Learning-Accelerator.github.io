@@ -14,8 +14,8 @@ body.about {
     background-color: #800000
 }
 .bg-primary {
-    text-color: #000000
-    background-color: rgba(256,256,256,1)
+    background-color: white
+        color: #000000
         
 }
 nav ul, footer ul {
