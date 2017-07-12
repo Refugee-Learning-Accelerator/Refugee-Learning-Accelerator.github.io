@@ -10,8 +10,10 @@ body.landingpage {
   -o-background-size: cover;
     background-position: center 0px
 }
-body.about {
-    background-color: #800000
+body.about { padding-top: 40px; }
+@media screen and (max-width: 768px) {
+    body { padding-top: 0px; }
+    body.landingpage { background-position: -500px 0px}
 }
 .bg-primary {
     background-color: white
