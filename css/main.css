@@ -51,8 +51,11 @@ nav ul li, footer ul li {
 .cover-heading {
     font-size: 60px
 }
-.header-content{
+.header-content {
   color: #000000
+}
+header.about {
+    background-color:#837E7C
 }
 hr {
     border-color: #000000;
