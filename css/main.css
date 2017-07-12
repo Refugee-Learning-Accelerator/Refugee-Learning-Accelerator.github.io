@@ -12,7 +12,7 @@ body.landingpage {
 }
 body.about { padding-top: 40px; }
 @media screen and (max-width: 768px) {
-    body { padding-top: 0px; }
+    body { padding-top: 20px; }
     body.landingpage { background-position: -500px 0px}
 }
 .bg-primary {
