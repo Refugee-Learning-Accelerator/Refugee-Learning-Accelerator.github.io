@@ -82,9 +82,17 @@ hr {
 }
 header .header-content .header-content-inner p {
     font-weight: 300;
-    color: #000000;
+    color: white;
     font-size: 25px;
     margin-bottom: 50px;
+}
+header.apply .header-content .header-content-inner p {
+    font-weight: 300;
+    color: white;
+    font-size: 25px;
+    margin-bottom: 50px;
+    text-align: left;
+    padding-left: 30px;
 }
 header.about .header-content .header-content-inner p {
     font-weight: 300;
@@ -94,7 +102,7 @@ header.about .header-content .header-content-inner p {
     text-shadow: 1px 1px 1px #000000;
 }
 header .header-content .header-content-inner .light p{
-    color: white 
+    color: white; 
     font-weight: 300;
     font-size: 25px;
     margin-bottom: 50px;
