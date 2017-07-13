@@ -10,10 +10,10 @@ body.landingpage {
   -o-background-size: cover;
     background-position: center 0px
 }
-body.about { padding-top: 40px; }
+body.about { padding-top: 0px; }
 @media screen and (max-width: 768px) {
     body { padding-top: 20px; }
-    body.landingpage { background-position: -500px 0px}
+    body.landingpage { background-position: 80% 0px}
 }
 .bg-primary {
     background-color: white
@@ -62,7 +62,8 @@ nav ul li, footer ul li {
   color: #000000
 }
 header.about {
-    background-image: url("/Media_Lab.jpg")
+    background-image: url("/Media_Lab.jpg");
+
 }
 hr {
     border-color: #000000;
@@ -82,6 +83,13 @@ header .header-content .header-content-inner p {
     color: #000000;
     font-size: 25px;
     margin-bottom: 50px;
+}
+header.about .header-content .header-content-inner p {
+    font-weight: 300;
+    color: white;
+    font-size: 25px;
+    margin-bottom: 50px;
+    text-shadow: 1px 1px 1px #000000;
 }
 header .header-content .header-content-inner .light p{
     color: white 
