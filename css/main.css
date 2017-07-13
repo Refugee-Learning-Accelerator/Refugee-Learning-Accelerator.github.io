@@ -114,11 +114,12 @@ header .header-content .header-content-inner .light p{
     paddingright: 15px;
 }
 a.class1 {
-    text-decoration: none;
-    color: #0020C2;
+    text-decoration: underline;
+    color: white;
 }
 a.class1:hover {
     text-decoration: underline;
+    color: #B6B6B4
 }
 a.class2 {
     color: white;
@@ -131,16 +132,15 @@ class2:hover {
     text-decoration: underline;
 }
 a.class3 {
-    background-color: #B6B6B4;
     color: white;
     padding: 14px 25px;
     text-align: left; 
-    text-decoration: none;
+    text-decoration: underline;
     display: inline-block;
 }
 
-a.class2:hover {
-    text-decoration: underline;
+a.class3:hover {
+    color: #B6B6B4
 }
 h1 {
     font-size: 60px;
