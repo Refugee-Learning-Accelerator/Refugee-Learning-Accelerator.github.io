@@ -122,11 +122,8 @@ a.class1:hover {
     color: #B6B6B4
 }
 a.class2 {
-    color: white;
-    padding: 14px 25px;
-    text-align: center; 
-    text-decoration: none;
-    display: inline-block;
+    color: #000000;
+    text-decoration: underline;
 }
 class2:hover {
     text-decoration: underline;
