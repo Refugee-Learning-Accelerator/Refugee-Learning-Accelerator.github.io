@@ -139,6 +139,12 @@ a.class3 {
 a.class3:hover {
     color: #B6B6B4
 }
+a.class4 {    
+    color: #B6B6B4;
+    padding: 14px 25px;
+    text-align: left; 
+    text-decoration: underline;
+    display: inline-block;
 h1 {
     font-size: 60px;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
