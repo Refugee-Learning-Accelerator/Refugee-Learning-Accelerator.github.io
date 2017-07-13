@@ -62,7 +62,7 @@ nav ul li, footer ul li {
   color: #000000
 }
 header.about {
-    background-color:#837E7C
+    background-image: url("/Media_Lab.jpg")
 }
 hr {
     border-color: #000000;
