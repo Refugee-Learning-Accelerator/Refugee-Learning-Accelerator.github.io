@@ -119,6 +119,7 @@ header .header-content .header-content-inner .light p{
 .blurb {
     padding-left: 15px;
     paddingright: 15px;
+    text-color: #000000;
 }
 a.class1 {
     text-decoration: underline;
