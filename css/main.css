@@ -2,7 +2,7 @@ body {
     width: 100%;
 }
 body.landingpage { 
-  background-image: url("/Smiling_into_computer.jpg"); 
+  background-image: url("/Smiling_into_computer_edited.jpg"); 
   background-repeat: no-repeat;
   background-size: cover;
   -webkit-background-size: cover;
@@ -59,13 +59,13 @@ nav ul li, footer ul li {
     font-size: 60px
 }
 header.about {
-    background-image: url("/Media_Lab.jpg");
+    background-image: url("/Media_Lab_edited.jpg");
 }
 header.program {
     background-image: url("/pigeon_sun.jpg");
 }
 header.apply {
-    background-image:url("/Thinking_in_window.jpg");
+    background-image:url("/Thinking_in_window_edited.jpg");
 }
 header.FAQ {
     background-color: #B6B6B4;
