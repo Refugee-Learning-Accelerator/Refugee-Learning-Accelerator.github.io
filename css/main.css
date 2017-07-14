@@ -69,6 +69,7 @@ header.apply {
 }
 header.FAQ {
     background-image: url("/Goats_FAQ_Background.jpg");
+    color: #000000
 }
 hr {
     border-color: #000000;
