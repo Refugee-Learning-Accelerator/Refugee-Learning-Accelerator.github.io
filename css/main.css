@@ -59,7 +59,7 @@ nav ul li, footer ul li {
     font-size: 60px
 }
 header.about {
-    background-image: url("/Media_Lab_edited.jpg");
+    background-image: url("/Media_Lab_Edited.jpg");
 }
 header.program {
     background-image: url("/pigeon_sun.jpg");
@@ -102,7 +102,6 @@ header.about .header-content .header-content-inner p {
     color: white;
     font-size: 25px;
     margin-bottom: 50px;
-    text-shadow: 1px 1px 1px #000000;
 }
 header .header-content .header-content-inner .light p{
     color: white; 
