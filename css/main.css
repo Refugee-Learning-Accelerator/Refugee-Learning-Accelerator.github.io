@@ -67,6 +67,9 @@ header.program {
 header.apply {
     background-image:url("/Thinking_in_window.jpg");
 }
+header.FAQ {
+    background-color: #B6B6B4;
+}
 hr {
     border-color: #000000;
     border-width: 3px;
