@@ -10,6 +10,15 @@ body.landingpage {
   -o-background-size: cover;
     background-position: center 0px
 }
+body.FAQ { 
+  background-image: url("/Child_FAQ_Background.jpg"); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+    background-position: center 0px
+}
 body.about { padding-top: 0px; }
 @media screen and (max-width: 768px) {
     body { padding-top: 20px; }
