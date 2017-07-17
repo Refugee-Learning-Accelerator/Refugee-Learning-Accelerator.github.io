@@ -95,8 +95,7 @@ header.apply .header-content .header-content-inner p {
     color: white;
     font-size: 25px;
     margin-bottom: 50px;
-    text-align: left;
-    padding-left: 30px;
+    text-align: center;
 }
 header.about .header-content .header-content-inner p {
     font-weight: 300;
