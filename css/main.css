@@ -76,6 +76,13 @@ hr {
     border-width: 3px;
     max-width: 50px;
 }
+p.list { 
+    font-weight: 300;
+    color: white;
+    font-size: 25px;
+    margin-bottom: 50px;
+    text-align: center;
+}
 .btn-primary {
     color: #fff;
     background-color: #000000;
@@ -164,13 +171,6 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
 }
-    p.list { 
-    font-weight: 300;
-    color: white;
-    font-size: 25px;
-    margin-bottom: 50px;
-    text-align: center;
-    }
 .box_textshadow {
      text-shadow: 1px 1px 1px #ccc; /* FF3.5+, Opera 9+, Saf1+, Chrome, IE10 */
 }
