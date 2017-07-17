@@ -109,6 +109,9 @@ header .header-content .header-content-inner .light p{
     font-size: 25px;
     margin-bottom: 50px;
 }
+section {
+    padding: 0px 0px;
+}
 .navbar-default .navbar-header .navbar-brand {
     color: #000000;
 }
@@ -127,7 +130,7 @@ a.class1 {
 }
 a.class1:hover {
     text-decoration: underline;
-    color: #B6B6B4
+    color: #B6B6B4;
 }
 a.class2 {
     color: #000000;
@@ -145,7 +148,7 @@ a.class3 {
 }
 
 a.class3:hover {
-    color: #B6B6B4
+    color: #B6B6B4;
 }
 a.class4 {    
     color: #B6B6B4;
