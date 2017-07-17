@@ -78,7 +78,7 @@ hr {
     border-width: 3px;
     max-width: 50px;
 }
-p.list { 
+.list { 
     font-weight: 300;
     color: white;
     font-size: 25px;
