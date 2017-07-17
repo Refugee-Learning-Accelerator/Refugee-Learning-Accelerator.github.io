@@ -33,6 +33,14 @@ header.less-whitespace .header-content {
     transform: translateY(-50%);
     padding: 0 50px;}
 }
+header.less-whitespace .header-content {
+    position: absolute;
+    top: 20%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    padding: 0 50px;
+}
 .bg-primary {
     background-color: white
         color: #000000
