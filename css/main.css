@@ -29,7 +29,9 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline-block;
 }
-
+.service-box {
+    max-width: 100%
+}
 /* navbar */
 .navbar-inverse {
     background-color: #800000;
