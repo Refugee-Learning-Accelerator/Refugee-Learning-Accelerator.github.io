@@ -114,7 +114,7 @@ header.apply {
 header.FAQ {
     background-image: url("/Child_FAQ_Background.jpg");
     color: #000000;
-    background-size: 100% 80%;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: 50% 30%;
 }
