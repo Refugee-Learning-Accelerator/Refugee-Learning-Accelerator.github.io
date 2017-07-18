@@ -13,13 +13,16 @@ body.landingpage {
 body.FAQ { 
   background-image: url("/Child_FAQ_Background.jpg"); 
   background-repeat: no-repeat;
-  background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+  background-size: 100% 80%;
+  background-repeat: no-repeat;
+  -webkit-background-size: 100% 80%;
+  -moz-background-size: 100% 80%;
+  -o-background-size: 100% 80%;
     background-position: center 0px
 }
-body.about { padding-top: 0px; }
+body.about { 
+    padding-top: 0px; 
+}
 @media screen and (max-width: 768px) {
     body { padding-top: 20px; }
     body.landingpage { background-position: 80% 0px}
@@ -90,16 +93,24 @@ nav ul li, footer ul li {
 }
 header.about {
     background-image: url("/Media_Lab_Edited.jpg");
+    background-size: 100% 80%;
+    background-repeat: no-repeat;
 }
 header.program {
     background-image: url("/pigeon_sun_edited.jpg");
+    background-size: 100% 80%;
+    background-repeat: no-repeat;
 }
 header.apply {
     background-image:url("/Thinking_in_window_tilted_edited.jpg");
+    background-size: 100% 80%;
+    background-repeat: no-repeat;
 }
 header.FAQ {
     background-image: url("/Child_FAQ_Background.jpg");
-    color: #000000
+    color: #000000;
+    background-size: 100% 80%;
+    background-repeat: no-repeat;
 }
 hr {
     border-color: #000000;
@@ -193,6 +204,7 @@ a.class4 {
     text-align: left; 
     text-decoration: underline;
     display: inline-block;
+}
 h1 {
     font-size: 60px;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
