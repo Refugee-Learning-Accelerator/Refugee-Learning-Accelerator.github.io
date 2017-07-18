@@ -13,11 +13,11 @@ body.landingpage {
 body.FAQ { 
   background-image: url("/Child_FAQ_Background_edited.jpg"); 
   background-repeat: no-repeat;
-  background-size: 100% 80%;
+  background-size: contain;
   background-repeat: no-repeat;
-  -webkit-background-size: 100% 80%;
-  -moz-background-size: 100% 80%;
-  -o-background-size: 100% 80%;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
     background-position: center 0px
 }
 body.about { 
