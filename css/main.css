@@ -32,7 +32,6 @@ header.less-whitespace .header-content {
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
     padding: 0 50px;
-    max-height: 500px;
     }
 }
 header.less-whitespace .header-content {
