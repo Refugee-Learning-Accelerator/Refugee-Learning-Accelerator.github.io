@@ -26,15 +26,16 @@ body.about {
 @media screen and (max-width: 768px) {
     body { padding-top: 20px; }
     body.landingpage { background-position: 80% 0px}
-    header.FAQ {
-    background-image: url("/Child_FAQ_Background_edited.jpg");
-    color: #000000;
-    background-size: 100% 80%;
-    background-repeat: no-repeat;
-    background-position: 50% 30%;
 }
 }
 @media (min-width: 768px){
+    header.FAQ {
+        background-image: url("/Child_FAQ_Background_edited.jpg");
+        color: #000000;
+        background-size: 100% 80%;
+        background-repeat: no-repeat;
+        background-position: 50% 30%;
+    }
 header.less-whitespace .header-content {
     position: absolute;
     top: 40%;
