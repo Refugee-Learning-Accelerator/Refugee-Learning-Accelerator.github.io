@@ -50,6 +50,10 @@ header.less-whitespace .header-content {
         color: #000000
         
 }
+.time-line {
+    padding: 10%;
+    padding-top: 0%;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
