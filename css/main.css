@@ -30,7 +30,7 @@ body.about {
 @media (min-width: 768px){
 header.less-whitespace .header-content {
     position: absolute;
-    top: 20%;
+    top: 40%;
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
@@ -39,12 +39,11 @@ header.less-whitespace .header-content {
 }
 header.less-whitespace .header-content {
     position: absolute;
-    top: 20%;
+    top: 40%;
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
     padding: 0 50px;
-    max-height: 500px;
 }
 .bg-primary {
     background-color: white
