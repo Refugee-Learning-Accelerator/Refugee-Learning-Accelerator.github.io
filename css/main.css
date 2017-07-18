@@ -94,6 +94,7 @@ header.about {
     background-image: url("/Media_Lab_Edited.jpg");
     background-size: 100% 80%;
     background-repeat: no-repeat;
+    background-position: 50% 30%;
 }
 header.program {
     background-image: url("/pigeon_sun_edited.jpg");
@@ -104,12 +105,14 @@ header.apply {
     background-image:url("/Thinking_in_window_tilted_edited.jpg");
     background-size: 100% 80%;
     background-repeat: no-repeat;
+    background-position: 50% 30%;
 }
 header.FAQ {
     background-image: url("/Child_FAQ_Background.jpg");
     color: #000000;
     background-size: 100% 80%;
     background-repeat: no-repeat;
+    background-position: 50% 30%;
 }
 hr {
     border-color: #000000;
@@ -172,22 +175,22 @@ section {
     text-color: #000000;
 }
 a.class1 {
-    text-decoration: underline;
-    color: white;
+    text-decoration: none;
+    color: #368BC1;
 }
 a.class1:hover {
-    text-decoration: underline;
+    text-decoration: none;
     color: #B6B6B4;
 }
 a.class2 {
-    color: #000000;
-    text-decoration: underline;
+    color: #368BC1;
+    text-decoration: none;
 }
 class2:hover {
-    text-decoration: underline;
+    text-decoration: none;
 }
 a.class3 {
-    color: white;
+    color: #368BC1;
     padding: 14px 25px;
     text-align: left; 
     text-decoration: underline;
@@ -195,10 +198,11 @@ a.class3 {
 }
 
 a.class3:hover {
-    color: #B6B6B4;
+    color: #368BC1;
 }
 a.class4 {    
-    color: #B6B6B4;
+    color: #000000;
+    background-color: #B6B6B4
     padding: 14px 25px;
     text-align: left; 
     text-decoration: underline;
