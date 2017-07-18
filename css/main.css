@@ -212,6 +212,9 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
 }
+.QA {
+    padding-bottom: 30px;
+}
 .box_textshadow {
      text-shadow: 1px 1px 1px #ccc; /* FF3.5+, Opera 9+, Saf1+, Chrome, IE10 */
 }
