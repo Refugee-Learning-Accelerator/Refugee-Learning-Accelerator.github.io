@@ -11,7 +11,7 @@ body.landingpage {
     background-position: center 0px
 }
 body.FAQ { 
-  background-image: url("/Child_FAQ_Background.jpg"); 
+  background-image: url("/Child_FAQ_Background_edited.jpg"); 
   background-repeat: no-repeat;
   background-size: 100% 80%;
   background-repeat: no-repeat;
@@ -112,7 +112,7 @@ header.apply {
     background-position: 50% 30%;
 }
 header.FAQ {
-    background-image: url("/Child_FAQ_Background.jpg");
+    background-image: url("/Child_FAQ_Background_edited.jpg");
     color: #000000;
     background-size: 100% 80%;
     background-repeat: no-repeat;
