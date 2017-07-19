@@ -110,7 +110,7 @@ header.about {
 }
 header.program {
     background-image: url("/pigeon_sun_edited.jpg");
-    height: calc(80vh);
+    height: 80%;
     width: 100%;
     background-repeat: no-repeat;
 }
