@@ -13,11 +13,11 @@ body.landingpage {
 body.FAQ { 
   background-image: url("/Child_FAQ_Background_edited.jpg"); 
   background-repeat: no-repeat;
-  background-size: 100% 80%;
+  background-size: cover;
   background-repeat: no-repeat;
-  -webkit-background-size: 100% 80%;
-  -moz-background-size: 100% 80%;
-  -o-background-size: 100% 80%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
     background-position: center 0px
 }
 body.about { 
@@ -32,9 +32,8 @@ body.about {
     header.FAQ {
         background-image: url("/Child_FAQ_Background_edited.jpg");
         color: #000000;
-        background-size: 100% 80%;
+        background-size: cover;
         background-repeat: no-repeat;
-        background-position: 50% 30%;
     }
 header.less-whitespace .header-content {
     position: absolute;
@@ -104,9 +103,8 @@ nav ul li, footer ul li {
 }
 header.about {
     background-image: url("/Media_Lab_Edited.jpg");
-    background-size: 100% 80%;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-position: 50% 30%;
 }
 header.program {
     background-image: url("/pigeon_sun_edited.jpg");
@@ -115,16 +113,14 @@ header.program {
 }
 header.apply {
     background-image:url("/Thinking_in_window_tilted_edited.jpg");
-    background-size: 100% 80%;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-position: 50% 30%;
 }
 header.FAQ {
     background-image: url("/Child_FAQ_Background_edited.jpg");
     color: #000000;
-    background-size: 100% 80%;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-position: 50% 30%;
 }
 hr {
     border-color: #000000;
