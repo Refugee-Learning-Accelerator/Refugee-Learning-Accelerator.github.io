@@ -122,7 +122,7 @@ header.apply {
 header.FAQ {
     background-image: url("/Child_FAQ_Background_edited.jpg");
     color: #000000;
-    background-size: contain;
+    background-size: 100% 80%;
     background-repeat: no-repeat;
     background-position: 50% 30%;
 }
