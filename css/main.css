@@ -107,6 +107,9 @@ header.about {
     background-repeat: no-repeat;
     min-height: 50%
 }
+header.about .header-content {
+    padding-top: 10%
+}
 header.program {
     background-image: url("/pigeon_sun_edited.jpg");
     background-size: cover;
