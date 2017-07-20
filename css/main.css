@@ -105,7 +105,7 @@ header.about {
     background-image: url("/Media_Lab_Edited.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    min-height: 50%
+    min-height: 70%
 }
 header.about .header-content {
     padding-top: 10%
