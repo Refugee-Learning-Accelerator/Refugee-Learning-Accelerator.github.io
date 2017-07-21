@@ -57,9 +57,10 @@ header.less-whitespace .header-content {
         color: #000000
         
 }
-.time-line {
+header.time-line {
     padding-top: 0%;
     color: #000000;
+    min-height: inherit;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
