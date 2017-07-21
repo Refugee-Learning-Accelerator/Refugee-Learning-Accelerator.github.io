@@ -114,11 +114,13 @@ header.program {
     background-image: url("/pigeon_sun_edited.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    min-height: 80%
 }
 header.apply {
     background-image:url("/Thinking_in_window_tilted_edited.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    min-height: 80%
 }
 header.FAQ {
     background-image: url("/Child_FAQ_Background_edited.jpg");
