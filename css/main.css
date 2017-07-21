@@ -60,6 +60,7 @@ header.less-whitespace .header-content {
 .time-line {
     padding: 10%;
     padding-top: 0%;
+    color: #000000;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -128,6 +129,12 @@ header.FAQ {
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 80%
+}
+header.time-line .header-content .header-content-inner p {
+    font-weight: 300;
+    color: #000000;
+    font-size: 25px;
+    margin-bottom: 50px;
 }
 hr {
     border-color: #000000;
