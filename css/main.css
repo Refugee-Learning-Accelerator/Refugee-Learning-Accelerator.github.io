@@ -60,7 +60,7 @@ header.less-whitespace .header-content {
 header.time-line {
     padding-top: 0%;
     color: #000000;
-    min-height: inherit;
+    min-height: 50%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
