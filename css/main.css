@@ -262,10 +262,10 @@ section.time-line {
 }
 section.time-line .header-content {
   position: relative;
-  text-align: center;
+  text-align: justify;
   padding: 100px 15px 100px;
   width: 100%;
-    color: #000000;
+  color: #000000;
 }
 section.time-line .header-content .header-content-inner h1 {
   font-weight: 700;
