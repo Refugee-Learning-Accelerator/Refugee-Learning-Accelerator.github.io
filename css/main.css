@@ -84,10 +84,15 @@ nav ul li, footer ul li {
 .navbar-default .navbar-nav > li > a {
    color: #000000; 
     }
+.navbar-default .navbar-nav > li > a:hover {
+    color: #B6B6B4;
+}
 .container {
     width: 100%;
 }
-
+.navbar-default .navbar-header .navbar-brand >li > a:hover{
+    color: #B6B6B4;
+}
 .site-wrapper-inner {
     background-size: cover
     background: rgba(256, 256, 256, 0.25); /* color with an alpha transparency */
@@ -198,10 +203,10 @@ section {
 }
 a.class1 {
     text-decoration: none;
-    color: #368BC1;
+    color: #000000;
 }
 a.class1:hover {
-    text-decoration: none;
+    text-decoration: underline;
     color: #B6B6B4;
 }
 a.class2 {
@@ -218,7 +223,10 @@ a.class3 {
     text-decoration: underline;
     display: inline-block;
 }
-
+a:hover,
+a:focus {
+  color: #B6B6B4;
+}
 a.class3:hover {
     color: #368BC1;
 }
@@ -265,7 +273,7 @@ section.time-line .header-content {
   text-align: justify;
   padding: 100px 15px 100px;
   width: 100%;
-  color: #000000;
+    color: #000000;
 }
 section.time-line .header-content .header-content-inner h1 {
   font-weight: 700;
