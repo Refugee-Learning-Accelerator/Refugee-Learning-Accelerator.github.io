@@ -252,12 +252,7 @@ footer {
 section {
   position: relative;
   width: 100%;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/header.jpg');
   text-align: center;
   color: white;
   text-color: #000000;
@@ -267,6 +262,7 @@ section .header-content {
   text-align: center;
   padding: 100px 15px 100px;
   width: 100%;
+    color: #000000;
 }
 section .header-content .header-content-inner h1 {
   font-weight: 700;
@@ -274,6 +270,7 @@ section .header-content .header-content-inner h1 {
   margin-top: 0;
   margin-bottom: 0;
   font-size: 30px;
+  color: #000000;
 }
 section .header-content .header-content-inner hr {
   margin: 30px auto;
