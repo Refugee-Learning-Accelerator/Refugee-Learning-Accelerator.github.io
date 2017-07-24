@@ -298,10 +298,12 @@ section.time-line .header-content .header-content-inner p {
   }
   section.time-line .header-content {
     position: absolute;
-    top: 50%;
+    top: 0%;
+      /* This was causing the overlap of How it works and Text.
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
+      */
     padding: 0 50px;
   }
   section.time-line .header-content .header-content-inner {
