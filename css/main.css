@@ -249,6 +249,18 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
+section {
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-position: center;
+  background-image: url('../img/header.jpg');
+  text-align: center;
+  color: white;
+}
 section .header-content {
   position: relative;
   text-align: center;
@@ -267,7 +279,7 @@ section .header-content .header-content-inner hr {
 }
 section .header-content .header-content-inner p {
   font-weight: 300;
-  color: rgba(255, 255, 255, 0.7);
+  color: #000000;
   font-size: 16px;
   margin-bottom: 50px;
 }
