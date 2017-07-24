@@ -260,6 +260,7 @@ section {
   background-image: url('../img/header.jpg');
   text-align: center;
   color: white;
+  text-color: #000000;
 }
 section .header-content {
   position: relative;
