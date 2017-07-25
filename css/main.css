@@ -209,6 +209,14 @@ a.class1:hover {
     text-decoration: underline;
     color: #B6B6B4;
 }
+a.FAQ {
+    text-decoration: none;
+    color: #000000;
+}
+a.FAQ:hover {
+    text-decoration: none;
+    color: #B6B6B4;
+}
 a.class2 {
     color: #368BC1;
     text-decoration: none;
