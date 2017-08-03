@@ -11,7 +11,7 @@ body.landingpage {
     background-position: center 0px
 }
 body.FAQ { 
-  background-image: url("/Child_FAQ_Background_edited.jpg"); 
+  background-image: url("/Studying_FAQ_Background.jpg"); 
   background-repeat: no-repeat;
   background-size: cover;
   background-repeat: no-repeat;
@@ -30,7 +30,7 @@ body.about {
 }
 @media (min-width: 768px){
     header.FAQ {
-        background-image: url("/Child_FAQ_Background_edited.jpg");
+        background-image: url("/Studying_FAQ_Background.jpg");
         color: #000000;
         background-size: cover;
         background-repeat: no-repeat;
@@ -129,7 +129,7 @@ header.apply {
     min-height: 80%
 }
 header.FAQ {
-    background-image: url("/Child_FAQ_Background_edited.jpg");
+    background-image: url("/Studying_FAQ_Background.jpg");
     color: #000000;
     background-size: cover;
     background-repeat: no-repeat;
@@ -150,7 +150,7 @@ hr {
     font-weight: 300;
     color: #000000;
     font-size: 25px;
-    margin-bottom: 50px;
+    margin-bottom: 15px;
     text-align: left;
 }
 .btn-primary {
@@ -217,6 +217,14 @@ a.FAQ:hover {
     text-decoration: none;
     color: #B6B6B4;
 }
+a.FAQ2 {
+    text-decoration: none;
+    color: #646D7E;
+}
+a.FAQ2:hover {
+    text-decoration: none;
+    color: #B6B6B4;
+}
 a.class2 {
     color: #368BC1;
     text-decoration: none;
@@ -253,12 +261,38 @@ h1 {
     font-size: 60px;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+h2.FAQ {
+    margin-top:-55px;
+    padding-top:55px;  
+    padding-bottom: 25px;
+    padding-left: 50px;
+    font-size: 25px;
+}
+h2.FAQ2 {
+    margin-top:-55px;
+    padding-top:55px;  
+    color: #646D7E;
+}
+@media (min-width: 768px) {
+    h2.FAQ {
+    margin-top:-100px;
+    padding-top:100px;       
+    }    
+    h2.FAQ2 {
+    margin-top:-100px;
+    padding-top:100px;       
+    }
+}
 p {
     font-size: 1.5em;
     line-height: 1.4em;
 }
-.QA {
+p.QA {
     padding-bottom: 30px;
+    margin-top:-55px;
+    padding-top:55px;  
+    padding-left: 50px;
+    display: none;
 }
 .box_textshadow {
      text-shadow: 1px 1px 1px #ccc; /* FF3.5+, Opera 9+, Saf1+, Chrome, IE10 */
