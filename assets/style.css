@@ -1,0 +1,87 @@
+nav {
+  border-bottom: solid 3px grey;
+}
+
+.back-link {
+  color: red;
+}
+
+.page-header {
+  height: 70vh;
+  margin-top: 60px;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.page-header .container {
+  border-radius: 30px;
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 30px 10px 30px;
+}
+
+.splash-header {
+  color: #ade;
+  background-image: url('../assets/img/splash-header-background.jpg');
+}
+
+.year-header {
+  color: #f89;
+  background-image: url('../assets/img/year-header-background.jpg');
+}
+
+section {
+  padding: 60px 0px;
+}
+
+.btn-large {
+  padding: 10px;
+  width: 100%;
+  font-size: 1.3em;
+}
+
+.accordion-toggle, .accordion-toggle:hover, .accordion-toggle:visited, .accordion-toggle:active {
+  text-decoration: underline;
+  color: #ade;
+}
+
+.rla-primary {
+  background-color: #178 !important;
+  color: white !important;
+}
+
+.rla-primary h1, .rla-primary h2, .rla-primary h3, .rla-primary h4 {
+  color: #ff0;
+}
+
+.rla-secondary {
+  background-color: #ade !important;
+  color: black !important;
+}
+
+.rla-secondary h1, .rla-secondary h2, .rla-secondary h3, .rla-secondary h4 {
+  color: #550;
+}
+
+.rla-alternate-primary {
+  background-color: #901 !important;
+  color: white !important;
+}
+
+.rla-alternate-primary h1, .rla-alternate-primary h2, .rla-alternate-primary h3, .rla-alternate-primary h4 {
+  color: #ff0;
+}
+
+.rla-alternate-secondary {
+  background-color: #f89 !important;
+  color: black !important;
+}
+
+.rla-alternate-secondary h1, .rla-alternate-secondary h2, .rla-alternate-secondary h3, .rla-alternate-secondary h4 {
+  color: #550;
+}
+
+.rla-white {
+  background-color: white !important;
+  color: black !important;
+}

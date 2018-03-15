@@ -1,0 +1,17 @@
+{
+  "title": "RLA Site",
+  "name": "rla-site",
+  "version": "4.0.0",
+  "description": "An overview of the Refugee Learning Accelerator",
+  "license": "MIT",
+  "author": "Vahid Fazel-Rezai",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Refugee-Learning-Accelerator/Refugee-Learning-Accelerator.github.io.git"
+  },
+  "dependencies": {
+    "bootstrap": "4.0.0",
+    "jquery": "3.3.1",
+    "jquery.easing": "^1.4.1"
+  }
+}
