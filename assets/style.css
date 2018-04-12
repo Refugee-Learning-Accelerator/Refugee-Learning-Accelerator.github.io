@@ -51,6 +51,12 @@ section {
   background-image: url('../assets/img/splash-header-background.jpg');
 }
 
+.splash-header-cohort {
+  color: #fff;
+  background: url('../assets/img/cohort-header-background.jpg') no-repeat center center;
+  background-size: cover;
+}
+
 
 /* COLORS */
 
