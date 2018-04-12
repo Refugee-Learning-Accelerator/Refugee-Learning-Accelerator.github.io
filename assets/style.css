@@ -279,13 +279,21 @@ section {
   min-height: 160px;
 }
 
+.workshop-photo-element {
+  max-width: 25%;  
+}
 .workshop-photo {
-  max-width: 31%;
-  margin: 5px 4px;
+  width: 100%;
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
 }
 
 .workshop-photo-container {
   text-align: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 a, a:hover, a:visited, a:active {
@@ -298,4 +306,12 @@ a, a:hover, a:visited, a:active {
 
 #portfolio-content p {
   color: black;
+}
+
+.modal-body {
+  color: black !important;
+}
+
+.modal-body img {
+  width: 100%;
 }
