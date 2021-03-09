@@ -1,0 +1,98 @@
+/* GENERAL STYLE */
+
+body, p {
+  font-family: 'Helvetica Neue', Arial, sans-serif;  
+  font-weight: 300;
+}
+
+nav {
+  border-bottom: solid 3px grey;
+}
+
+section {
+  padding: 60px 0px;
+}
+
+.accordion-toggle, .accordion-toggle:hover, .accordion-toggle:visited, .accordion-toggle:active {
+  text-decoration: underline;
+  color: #ade;
+}
+
+.page-content {
+  margin-top: 60px;
+}
+
+.img-container {
+  text-align: center; 
+  margin: 16px;
+}
+
+.img-container img {
+  max-width: 50vw;
+  max-height: 80vh;
+}
+
+
+/* HEADER */
+
+/*.page-header {
+  height: 70vh;
+  margin-top: 60px;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.page-header h1 {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.page-header hr {
+  border-color: #000000;
+  border-width: 3px;
+  max-width: 50px;
+  margin: 30px auto;
+}
+
+.page-header p {
+  font-size: 25px;
+}
+
+.splash-header {
+  color: #fff;
+  background-image: url('../assets/img/splash-header-background.jpg');
+}
+
+.splash-header-cohort {
+  color: #fff;
+  background: url('../assets/img/cohort-header-background.jpg') no-repeat center center;
+  background-size: cover;
+}*/
+
+
+/* COLORS */
+
+.rla-primary {
+  background-color: #333 !important;
+  color: #ddd !important;
+}
+
+.rla-primary h1, .rla-primary h2, .rla-primary h3, .rla-primary h4 {
+  color: #fff;
+}
+
+.rla-secondary {
+  background-color: #ddd !important;
+  color: #333 !important;
+}
+
+.rla-secondary h1, .rla-secondary h2, .rla-secondary h3, .rla-secondary h4 {
+  color: #000;
+}
+
+.rla-white {
+  background-color: white !important;
+  color: black !important;
+}
